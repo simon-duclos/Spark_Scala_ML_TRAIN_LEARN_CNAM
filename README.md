@@ -5,8 +5,8 @@ L’objectif est de prédire la note (entre 1 et 10) à partir du texte de la re
 
 Table des matières :
 
-Contents
-0.    Introduction	
+Contents  
+0.  Introduction  	
 I.	Etude préalable des données	
   1.	Présentation des données
   2.	Répartition
@@ -17,10 +17,10 @@ II.	Etapes de traitement
   3.	Prétraitement des données texte (feature engineering)	
     a.	Pré-traitement avec les transformateurs de MLlib	
     b.	Pré-traitement avec pipeline Johnsnow labs puis vectorisation	
-  4.	Classifieurs	
-III.	Comparatif des résultats	
-IV.	Difficultés rencontrées	
-IV.	Conclusion
+  4.	Classifieurs  
+III. Comparatif des résultats 
+IV. Difficultés rencontrées 
+IV. Conclusion  
 
  
 0.    Introduction
